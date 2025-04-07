@@ -1,6 +1,17 @@
 <!--Tittle-->  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Dylan Ponce </h1>
 
+<!--Follows--> 
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dylanponce0&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Pepyn0?tab=followers">
+    <img src="https://img.shields.io/github/followers/dylanponce?style=social" alt="Followers" />
+  </a>
+</p>
+<div>
+
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs
