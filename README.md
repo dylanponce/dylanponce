@@ -1,3 +1,6 @@
+<!--Matriz-->
+<img src = "https://github.com/dylanponce/dylanponce/blob/main/matrix%20violeta.gif" height="200" width="100%">
+
 <!--Tittle-->  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Dylan Ponce </h1>
 
@@ -11,7 +14,6 @@
   </a>
 </p>
 <div>
-
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs
