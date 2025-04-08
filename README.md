@@ -43,7 +43,7 @@
 </h2> 
 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,git,vscode&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,git,github,vscode&perline=10"  />
 </p>
 <br />
 
