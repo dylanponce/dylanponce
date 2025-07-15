@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dylanponce0&color=blueviolet" alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
+  <a href="https://github.com/dylanponce?tab=followers">
     <img src="https://img.shields.io/github/followers/dylanponce?style=social" alt="Followers" />
   </a>
 </p>
