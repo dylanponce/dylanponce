@@ -1,7 +1,7 @@
 <!--Matriz-->
 <!--<img src = "https://github.com/dylanponce/dylanponce/blob/main/matrix%20violeta.gif" height="200" width="100%"> -->
 
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io )
+<!--[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io )-->
 <!--Tittle-->  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Dylan Ponce </h1>
 
