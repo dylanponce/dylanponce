@@ -1,9 +1,9 @@
 <!--Matriz-->
 <!--<img src = "https://github.com/dylanponce/dylanponce/blob/main/matrix%20violeta.gif" height="200" width="100%"> -->
 
-<!--[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io )-->
+<!--[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io )    //Remove-->
 <!--Tittle-->  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Dylan Ponce </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="30px">, I am Dylan Ponce </h1>
 
 <!--Follows--> 
 </div>
@@ -16,7 +16,7 @@
 </p>
 <div>
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/77b3e99d-4107-47ce-9ea8-75d26297acbf" /></img> About Me
 
 <table align="center">
 <tr border="none">
@@ -56,15 +56,12 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dylanponce&theme=midnight-purple&show_icons=true&count_private=true" />
-  
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dylanponce&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <!--<td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dylanponce&theme=midnight-purple&show_icons=true&count_private=true" />
+  </td>
+  //Remove-->
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dylanponce&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
